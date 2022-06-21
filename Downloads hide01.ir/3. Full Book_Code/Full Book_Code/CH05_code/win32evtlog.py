@@ -1,0 +1,1 @@
+print("Not the real win32evtlog")
